@@ -1,5 +1,5 @@
 const animes = [{
-    https: 'https://www.dongmanhuayuan.com/search',
+    https: 'https://www.dongmanhuayuan.com/search/',
     p: '动漫花园',
     img: 'https://www.dongmanhuayuan.com/static/www/images/logo.png'
 }, {
